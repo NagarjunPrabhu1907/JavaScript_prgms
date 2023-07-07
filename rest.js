@@ -4,5 +4,5 @@ function show(a, b, ...args) {
     console.log(args); 
   }
   
-  show('one', 'two', 'three', 'four', 'five', 'six')
+  show('one', 'two', 'two', 'four', 'five', 'six')
   console.log(show);
