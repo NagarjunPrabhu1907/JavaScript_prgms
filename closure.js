@@ -4,6 +4,6 @@ function User(name){
     }
   return displayName;
   }
-  var myFunc = User('Raj');
+  var myFunc = User('Raju');
   myFunc('Welcome '); 
   myFunc('Hello '); 
