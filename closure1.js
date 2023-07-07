@@ -1,5 +1,5 @@
 function init() {
-    var name = "Mozilla"; // name is a local variable created by init
+    var name = "cool"; // name is a local variable created by init
     function displayName() {
       
       console.log(name); // use variable declared in the parent function
