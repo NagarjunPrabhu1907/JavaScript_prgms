@@ -9,4 +9,4 @@ function sum(x, y = 5) {
 }
 
 sum(5); 
-sum(5, 15); 
+sum(5, 11); 
