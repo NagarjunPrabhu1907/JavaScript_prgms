@@ -1,5 +1,5 @@
 function salutation() {
-	let name = 'Aayush';
+	let name = 'Akash';
 
 	function greet() {
 		console.log(`Hello ${name}!`);
