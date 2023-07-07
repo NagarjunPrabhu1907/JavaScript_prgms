@@ -2,7 +2,7 @@ const materials = [
     'Hydrogen',
     'Helium',
     'Lithium',
-    'Beryllium'
+    'Berylium'
   ];
   
   console.log(materials.map(material => material.length));
