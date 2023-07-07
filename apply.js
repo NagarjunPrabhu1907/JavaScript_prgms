@@ -16,4 +16,4 @@ function definePrice(price){
 }
 
 const newBrand = new setBrand('Brand1');
-const newCarPrice = new definePrice(100000);
+const newCarPrice = new definePrice(1000);
